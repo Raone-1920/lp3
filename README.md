@@ -84,6 +84,7 @@ contract StudentData {
         revert("Fallback function called. This contract does not accept Ether.");
     }
 }
+/*
 
 DAA codes
 fibonacci 
@@ -733,3 +734,4 @@ int main() {
 }
 
 
+*\
